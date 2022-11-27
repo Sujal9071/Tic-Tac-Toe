@@ -1,2 +1,2 @@
-# Simple-Tic-Tac-Toe
-Hyperskill Java Project
+# Tic-Tac-Toe
+Java Project
